@@ -24,9 +24,9 @@ return array(
 	'modules' => array(
 		'opauth' => array(
 			'opauthParams' => array(
-				'Security.salt' => 'LDFmiilYf8Fyw5W10rx4W1KsVrieQCnpBzzpTBWA5vJidQKDx8pMJbmw28R1C4m',
+				'security_salt' => 'LDFmiilYf8Fyw5W10rx4W1KsVrieQCnpBzzpTBWA5vJidQKDx8pMJbmw28R1C4m',
 				'Strategy' => array(
-					'facebook' => array(
+					'Facebook' => array(
 						'app_id' => 'YOUR_FACEBOOK_APP_ID',
 						'app_secret' => 'YOUR_FACEBOOK_APP_SECRET',
 					)
